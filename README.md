@@ -2,5 +2,4 @@
 
 Curso em Vídeo - Python 3 - Mundo 1 [40 Horas]
 
-
-https://www.cursoemvideo.com/
+<a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a>
